@@ -1,0 +1,26 @@
+import 'dart:io';
+void main() {
+  
+  //Câu 1
+  print("Thanh Phong");
+  
+  //Câu 2
+  print("Hello I am Phong");
+  print("Hello I'm Phong");
+  int p,t,r;
+  p = 7; // Câu 3
+  t = 6;
+  r = 20;
+  
+  //Câu 4
+  double Formula = (p*t*r)/100; 
+  print(Formula);
+  //Câu 5
+  /*
+  print("Nhập số: ");
+  int? number = int.parse(stdin.readLineSync()!);
+  int bp = number*number;
+  print("Bình phương của số {number} là {bp}");
+  */
+  
+}
